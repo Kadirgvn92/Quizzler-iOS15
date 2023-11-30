@@ -1,5 +1,4 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<p align="center"> <img src="logo.png" /> </p>
 
 #  Quizzler
 
